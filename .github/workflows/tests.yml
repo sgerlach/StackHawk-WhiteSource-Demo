@@ -38,4 +38,4 @@ jobs:
         with:
           apiKey: ${{ secrets.HAWK_API_KEY }}
           configurationFiles: stackhawk.yml stackhawk-github.yml
-          network: stackhawk-whitesource_demo_default
+          network: stackhawk-whitesource-demo_default
